@@ -1,0 +1,8 @@
+{
+  "name": "Countdown",
+  "description": "A simple countdown widget creation app",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
